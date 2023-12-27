@@ -11,13 +11,11 @@
   "tasks": {
     "lint": {
       "name": "lint",
-      "command": "yarn lint",
-      "runAtStart": false
+      "command": "yarn lint"
     },
     "ngrok": {
       "name": "ngrok",
-      "command": "yarn ngrok",
-      "runAtStart": false
+      "command": "yarn ngrok"
     },
     "start": {
       "name": "start",
